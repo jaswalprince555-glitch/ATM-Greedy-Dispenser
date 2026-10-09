@@ -38,7 +38,7 @@ If the user enters `1700`:
 
 **Output:**
 
-
+~~~
 $ javac GreedyDispenser.java
 $ java GreedyDispenser
 total withdrawal amount : 1700
@@ -49,7 +49,7 @@ AMOUNT: 0
 200 Notes: 1
 100 Notes: 0
 ====================
-
+~~~
 
 int notes500 = totalwithdrawal / 500;
 totalwithdrawal = totalwithdrawal % 500;
